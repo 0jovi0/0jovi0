@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Dev, Blockchain Dev.
 ------------------------
 
-Medicine undergrad turned into software developer. Full Stack Developer focused on the development of dApps and blockchain-related software. My main focus is EVM chains and EOS/WAX. [Encode - Solidity Bootcamp](https://www.encode.club/solidity-bootcamps) graduate.
+Medicine undergrad turned into software developer. Full Stack Developer focused on dApps and blockchain-related software. My main focus is EVM chains and EOS/WAX. [Encode - Solidity Bootcamp](https://www.encode.club/solidity-bootcamps) graduate.
 
 * 🌍  I'm based in São Paulo, Brazil.
 * ✉️  You can contact me at [jvwfreire@gmail.com](mailto:jvwfreire@gmail.com)
