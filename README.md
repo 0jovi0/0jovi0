@@ -8,7 +8,7 @@ Medicine undergrad turned into software developer. Full Stack Developer focused 
 
 * 🌍  I'm based in São Paulo, Brazil.
 * ✉️  You can contact me at [jvwfreire@gmail.com](mailto:jvwfreire@gmail.com)
-* 🧠  I'm learning smart contract auditing and DeFi .
+* 🧠  I'm learning smart contract auditing and DeFi . Check out my [DeFi Studies Gitbook](https://jovi-1.gitbook.io/defi-studies/)
 * 🤝  I'm open to collaborating on dApps development and anything smart contract-related.
 
 ### Skills
